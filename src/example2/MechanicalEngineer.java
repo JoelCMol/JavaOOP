@@ -1,4 +1,4 @@
-package example1;
+package example2;
 
 public class MechanicalEngineer extends Engineer{
     private String peLicenceNumber;

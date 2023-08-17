@@ -1,4 +1,4 @@
-package example2;
+package example1;
 
 public class Essay extends GradedActivity{
     private double grammar;
